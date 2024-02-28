@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data?resource=download
+
+https://www.datos.gov.co/Ambiente-y-Desarrollo-Sostenible/Calidad-del-Aire/53gx-j5pc/about_data
